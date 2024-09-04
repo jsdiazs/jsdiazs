@@ -1,6 +1,8 @@
-# <img src="https://media.giphy.com/media/PmvLFkc52mAx67xLih/giphy.gif?cid=790b7611ze78oqx98zpp560po0qsegxxvpfactolekbfv7bi&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>  Hey there! Great to see you here 💪🏽
-
 ![Banner de Jhoan Diaz](banner-github-jhoan.png)
+
+# Hey there! Great to see you here <img src="https://media.giphy.com/media/PmvLFkc52mAx67xLih/giphy.gif?cid=790b7611ze78oqx98zpp560po0qsegxxvpfactolekbfv7bi&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
+
+
 
 
 

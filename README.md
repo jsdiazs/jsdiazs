@@ -11,7 +11,17 @@
 
 <img width="40%" align="right" alt="RDR2!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE1M2pyZjE5d3F4YXVncmtpZXZwcXk5ejgxdTBlend0cnNsaHpoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WvQNnMcTsOy8RAaK4m/giphy.gif" />
 
-<p>Welcome to my GitHub! </br> I'm Jhoan, Computer Scientist graduate from <a href="https://uniandes.edu.co/">Universidad de los Andes</a> in <b>Bogotá, Colombia.</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197575.png" width="13"/> My greatest passion has always been learning different disciplines. Sports have been one of my biggest passions, along with technology and how we interact with the advancements it offers us. I'm also passionate about video games like <i>The Last of Us</i>, <i>RDR2</i>, <i>Pokémon</i>, and <i>FIFA</i> (up until FIFA 19). </p>
+<p>Welcome to my GitHub! </br> I'm Jhoan, Computer Scientist graduate from <a href="https://uniandes.edu.co/">Universidad de los Andes</a> in <b>Bogotá, Colombia.</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197575.png" width="13"/></p>
+
+
+- 🏋🏽 Fun-Fact: Passionate about bodybuilding
+- 🎮 Pokémon, The Last of Us, FIFA, and RDR2
+- 📚 I'm currently reading: 12 Rules for Life
+- 📫 How to reach me: jhoan2402@hotmail.com
+
+
+
+
 
 ##  Languages and Tools 💻:
 

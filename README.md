@@ -42,9 +42,7 @@
 
 ## Stats
 
-[![Jhoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdiazs)](https://github.com/jsdiazs/github-readme-stats)
-
-![Jhoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdiazs&show_icons=true&theme=transparent)
+![Jhoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdiazs&show_icons=true&theme=one_dark_pro)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdiazs&layout=compact&theme=dark)
 

@@ -45,4 +45,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdiazs&layout=compact&theme=dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jsdiazs.jsdiazs)

@@ -42,9 +42,10 @@
 
 ## Stats
 
-[![Jhoan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jsdiazs/github-readme-stats#gh-dark-mode-only)
-[![Jhoan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jsdiazs/github-readme-stats#gh-light-mode-only)
+[![Jhoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdiazs)](https://github.com/jsdiazs/github-readme-stats)
+
+![Jhoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdiazs&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdiazs&layout=compact&theme=dark)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jsdiazs.README.md)
+![](https://komarev.com/ghpvc/?username=jsdiazs&color=red&style=plastic)

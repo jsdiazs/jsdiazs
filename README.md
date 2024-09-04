@@ -8,20 +8,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ye_bastian/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jhoan2402@hotmail.com)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="width: 50%;">
-    <p>Welcome to my GitHub! <br/> 
-      I'm Jhoan, a Computer Science graduate from <a href="https://uniandes.edu.co/">Universidad de los Andes</a> in <b>Bogotá, Colombia</b>. 
-      <img src="https://cdn-icons-png.flaticon.com/128/197/197575.png" width="13"/> My greatest passion has always been learning different disciplines. 
-      Sports have been one of my biggest passions, along with technology and how we interact with the advancements it offers us. 
-      I'm also passionate about video games like <i>The Last of Us</i>, <i>RDR2</i>, <i>Pokémon</i>, and <i>FIFA</i> (up until FIFA 19).
-    </p>
-  </div>
-  <div style="width: 45%;">
-    <img width="100%" alt="RDR2!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE1M2pyZjE5d3F4YXVncmtpZXZwcXk5ejgxdTBlend0cnNsaHpoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WvQNnMcTsOy8RAaK4m/giphy.gif" />
-  </div>
-</div>
 
+<img width="50%" align="right" alt="RDR2!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE1M2pyZjE5d3F4YXVncmtpZXZwcXk5ejgxdTBlend0cnNsaHpoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WvQNnMcTsOy8RAaK4m/giphy.gif" />
+
+<p>Welcome to my GitHub! </br> I'm Jhoan, Computer Scientist graduate from <a href="https://uniandes.edu.co/">Universidad de los Andes</a> in <b>Bogotá, Colombia.</b> <img src="https://cdn-icons-png.flaticon.com/128/197/197575.png" width="13"/> My greatest passion has always been learning different disciplines. Sports have been one of my biggest passions, along with technology and how we interact with the advancements it offers us. I'm also passionate about video games like <i>The Last of Us</i>, <i>RDR2</i>, <i>Pokémon</i>, and <i>FIFA</i> (up until FIFA 19). </p>
 
 ##  Languages and Tools 💻:
 
